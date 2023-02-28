@@ -1,0 +1,1 @@
+# nextjs-prisma-auth-demo
