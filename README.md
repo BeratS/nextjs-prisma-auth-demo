@@ -38,6 +38,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Prisma Doc
+### Cloud Postgress Database
+https://railway.app/project/5ff4f48d-98d2-49d9-9821-c7cdef7dd175/plugin/b4d0d8f9-7673-46de-98ab-55eefd100c10/data
+
 https://vercel.com/guides/nextjs-prisma-postgres
 
 npx prisma db push
